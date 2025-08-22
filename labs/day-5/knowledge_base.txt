@@ -1,0 +1,11 @@
+Article 1: Password Reset
+Solution: To reset your password, please go to the 'Account Settings' page and click 'Forgot Password'.
+
+Article 2: Common Login Issues
+Solution: Common login issues can be resolved by clearing your browser cache and cookies.
+
+Article 3: Locked Accounts
+Solution: If your account is locked, please contact support directly at support@example.com for manual verification.
+
+Article 4: Computer very slow
+Solution: If your computer is slow then try deleting the cache. You can you CCleaner tool and then restart the system. Also check in task manager that which task is taking maximum resourses.

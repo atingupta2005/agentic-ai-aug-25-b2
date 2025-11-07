@@ -5,7 +5,299 @@ Article 2: Common Login Issues
 Solution: Common login issues can be resolved by clearing your browser cache and cookies.
 
 Article 3: Locked Accounts
-Solution: If your account is locked, please contact support directly at support@example.com for manual verification.
+Solution: If your account is locked, please contact support directly at support@example.com
+ for manual verification.
 
-Article 4: Computer very slow
-Solution: If your computer is slow then try deleting the cache. You can you CCleaner tool and then restart the system. Also check in task manager that which task is taking maximum resourses.
+Article 4: Computer Very Slow
+Solution: If your computer is slow, try deleting the cache. You can use the CCleaner tool and then restart the system. Also, check in Task Manager which task is consuming the most resources.
+
+Article 5: Furniture is Broken
+Solution: Call a carpenter.
+
+Article 6: Internet Not Working
+Solution: Check if your Wi-Fi is connected. Restart your router and modem, and if the issue persists, contact your Internet Service Provider.
+
+Article 7: Blue Screen Error (BSOD)
+Solution: Update your drivers and perform a Windows Memory Diagnostic. Check hardware connections for loose components.
+
+Article 8: Printer Not Responding
+Solution: Ensure the printer is powered on and connected. Reinstall the printer driver or restart the Print Spooler service.
+
+Article 9: Keyboard Not Working
+Solution: Check the connection (USB or wireless). Try using another port or changing batteries for wireless keyboards.
+
+Article 10: Mouse Lagging
+Solution: Clean the mouse sensor, update drivers, and ensure no background apps are using too many resources.
+
+Article 11: Wi-Fi Keeps Disconnecting
+Solution: Forget and reconnect to the Wi-Fi network. Update your network adapter driver and reboot your router.
+
+Article 12: Software Installation Failed
+Solution: Run the installer as Administrator and disable antivirus temporarily. Ensure adequate disk space is available.
+
+Article 13: Windows Update Failed
+Solution: Run the Windows Update Troubleshooter, clear the SoftwareDistribution folder, and restart the PC.
+
+Article 14: System Overheating
+Solution: Clean dust from vents and fans, ensure proper ventilation, and use a cooling pad if needed.
+
+Article 15: Screen Flickering
+Solution: Update your display driver and check for faulty cables or monitor refresh rate settings.
+
+Article 16: No Sound Output
+Solution: Verify sound settings, ensure the correct playback device is selected, and reinstall audio drivers.
+
+Article 17: Application Not Launching
+Solution: Run as Administrator, reinstall the app, or check for missing dependencies such as .NET or Visual C++ libraries.
+
+Article 18: Slow Boot Time
+Solution: Disable startup apps using Task Manager and defragment your hard drive.
+
+Article 19: File Not Opening
+Solution: Ensure the correct program is installed for that file type or try using “Open With…” to select an appropriate app.
+
+Article 20: USB Device Not Recognized
+Solution: Reinsert the device, update USB drivers, and check for power issues in Device Manager.
+
+Article 21: Browser Running Slow
+Solution: Clear cache and extensions. Update your browser or reinstall it if performance issues continue.
+
+Article 22: Cannot Connect to VPN
+Solution: Check internet connectivity, verify VPN credentials, and restart your VPN service.
+
+Article 23: Email Not Syncing
+Solution: Re-add the email account, check mail server settings, and verify that sync is enabled.
+
+Article 24: Files Missing After Update
+Solution: Check Windows.old folder or use File History to restore lost files.
+
+Article 25: System Won’t Start
+Solution: Boot into Safe Mode and perform Startup Repair from Advanced Options.
+
+Article 26: Hard Disk Full
+Solution: Delete temporary files, uninstall unused apps, and use Disk Cleanup.
+
+Article 27: Pop-Ups Appearing Frequently
+Solution: Scan for malware using Windows Defender or Malwarebytes and remove suspicious extensions.
+
+Article 28: Laptop Not Charging
+Solution: Check power adapter, test another charger, and inspect the charging port for damage.
+
+Article 29: Touchpad Not Working
+Solution: Enable touchpad from settings or reinstall its driver.
+
+Article 30: Unable to Access Shared Network Drive
+Solution: Ensure both devices are on the same network, enable file sharing, and check permissions.
+
+Article 31: System Time Incorrect
+Solution: Enable automatic time sync or replace the CMOS battery if it resets frequently.
+
+Article 32: Random Restarts
+Solution: Check for overheating, faulty RAM, or outdated BIOS.
+
+Article 33: Corrupted Files Detected
+Solution: Run sfc /scannow in Command Prompt to repair corrupted system files.
+
+Article 34: External Hard Drive Not Detected
+Solution: Change USB ports, try on another PC, or update disk drivers.
+
+Article 35: Laptop Camera Not Working
+Solution: Enable camera access in privacy settings and reinstall camera drivers.
+
+Article 36: Bluetooth Not Pairing
+Solution: Remove the device and re-pair. Update Bluetooth adapter driver.
+
+Article 37: Application Crashing Frequently
+Solution: Clear cache, update the app, and check for compatibility with your OS version.
+
+Article 38: Black Screen After Login
+Solution: Restart Explorer.exe from Task Manager or boot into Safe Mode.
+
+Article 39: High CPU Usage
+Solution: Identify the culprit in Task Manager and update or disable that application.
+
+Article 40: Network Printer Offline
+Solution: Restart the printer, ensure it's connected to the network, and reinstall the printer.
+
+Article 41: Unable to Delete File
+Solution: Use Safe Mode or Command Prompt (del /f /q) to remove locked files.
+
+Article 42: USB Drive Write Protected
+Solution: Use Diskpart to clear the write protection attribute or check the physical switch on the drive.
+
+Article 43: Windows Activation Error
+Solution: Verify product key validity and activate through “slui 4” command if needed.
+
+Article 44: Battery Draining Quickly
+Solution: Reduce background processes and screen brightness, and check for power-hungry apps.
+
+Article 45: Screen Resolution Incorrect
+Solution: Update display drivers and adjust resolution in display settings.
+
+Article 46: Computer Freezing Frequently
+Solution: Run diagnostics on RAM and storage, update drivers, and scan for malware.
+
+Article 47: Cannot Install Updates (Mac)
+Solution: Check internet connection, restart your Mac, and install updates via Safe Mode.
+
+Article 48: Overlapping Icons on Desktop
+Solution: Right-click → View → Auto Arrange Icons.
+
+Article 49: DNS Server Not Responding
+Solution: Change DNS to Google (8.8.8.8) or Cloudflare (1.1.1.1) and restart your connection.
+
+Article 50: Application License Expired
+Solution: Renew or revalidate the license key, or contact the vendor for support.
+
+Article 51: Browser Crashing on Startup
+Solution: Disable extensions and clear user profile data.
+
+Article 52: Missing DLL File
+Solution: Reinstall the related software or use sfc /scannow to repair the missing DLL.
+
+Article 53: Loud Fan Noise
+Solution: Clean dust from fans, ensure proper cooling, and adjust power settings.
+
+Article 54: Monitor Not Detected
+Solution: Check HDMI/VGA connections and update display drivers.
+
+Article 55: Network Slow
+Solution: Run speed test, limit background downloads, and reset network settings.
+
+Article 56: System Restore Fails
+Solution: Try restoring from Safe Mode or disable antivirus during the process.
+
+Article 57: Email Spam Filter Not Working
+Solution: Reconfigure spam settings or use a dedicated spam blocker.
+
+Article 58: Corrupt Excel File
+Solution: Use Excel’s “Open and Repair” feature or restore from backup.
+
+Article 59: USB Ports Not Working
+Solution: Power off, disconnect power cable, press power button for 30 seconds, then restart.
+
+Article 60: Cannot Open PDF
+Solution: Reinstall Adobe Reader or use an alternative like Foxit Reader.
+
+Article 61: Unable to Access Website
+Solution: Flush DNS using ipconfig /flushdns and clear browser cache.
+
+Article 62: Missing Taskbar Icons
+Solution: Restart Explorer.exe or reset taskbar settings.
+
+Article 63: Microphone Not Working
+Solution: Check privacy settings, update audio drivers, and ensure mic input is selected.
+
+Article 64: Lag in Online Games
+Solution: Use wired internet and close background downloads.
+
+Article 65: Out of Memory Error
+Solution: Increase virtual memory and close unused programs.
+
+Article 66: Hard Disk Error Detected
+Solution: Run chkdsk /f to fix disk errors.
+
+Article 67: Printer Prints Blank Pages
+Solution: Clean print heads and replace empty cartridges.
+
+Article 68: Mouse Double Clicking Issue
+Solution: Adjust double-click speed in mouse settings or replace the mouse.
+
+Article 69: Browser Redirecting to Ads
+Solution: Reset browser settings and remove adware extensions.
+
+Article 70: Bluetooth Audio Delay
+Solution: Re-pair device and update Bluetooth driver.
+
+Article 71: Cannot Find Network Drive
+Solution: Map network drive again and verify server is accessible.
+
+Article 72: Error 404 on Website
+Solution: Refresh, clear cache, or check URL spelling.
+
+Article 73: Excel Formula Not Calculating
+Solution: Ensure calculation mode is set to automatic.
+
+Article 74: Unresponsive Application
+Solution: End task and restart the app; reinstall if issue persists.
+
+Article 75: Browser Won’t Load Pages
+Solution: Disable proxy settings and check DNS configuration.
+
+Article 76: Slow File Transfer
+Solution: Use high-speed ports (USB 3.0) and ensure drive is not fragmented.
+
+Article 77: Password Manager Not Syncing
+Solution: Update the app and ensure cloud sync is enabled.
+
+Article 78: Error Connecting to Database
+Solution: Check connection string, credentials, and firewall access.
+
+Article 79: Cannot Connect to Remote Desktop
+Solution: Enable RDP in system settings and allow through the firewall.
+
+Article 80: System Crashes During Boot
+Solution: Check for faulty RAM or drivers in Safe Mode.
+
+Article 81: Webcam Flickering
+Solution: Adjust exposure or lighting settings.
+
+Article 82: Keyboard Typing Wrong Characters
+Solution: Change keyboard layout in region settings.
+
+Article 83: Windows Explorer Keeps Restarting
+Solution: Clear recent file history and update system drivers.
+
+Article 84: Screen Orientation Sideways
+Solution: Press Ctrl + Alt + Arrow Up to restore orientation.
+
+Article 85: Battery Not Detected
+Solution: Reinstall the battery driver and check hardware connection.
+
+Article 86: Unable to Format Drive
+Solution: Use Disk Management or command-line format utility.
+
+Article 87: Wi-Fi Adapter Missing
+Solution: Reinstall wireless driver or enable from BIOS.
+
+Article 88: Sound Crackling
+Solution: Change sound format or update audio driver.
+
+Article 89: Corrupted User Profile
+Solution: Create a new user account and transfer data.
+
+Article 90: App Auto Closing
+Solution: Clear app data and reinstall.
+
+Article 91: Sync Issues with OneDrive
+Solution: Restart OneDrive and check file path length.
+
+Article 92: Application Taking Too Long to Load
+Solution: Clear cache and temporary data folders.
+
+Article 93: USB Device Power Surge Error
+Solution: Disconnect the device, reboot, and reconnect to a different port.
+
+Article 94: System Date Keeps Resetting
+Solution: Replace the CMOS battery.
+
+Article 95: Missing Icons on Desktop
+Solution: Right-click → View → Show Desktop Icons.
+
+Article 96: Network Authentication Failed
+Solution: Re-enter correct credentials and reset Wi-Fi adapter.
+
+Article 97: Printer Queue Stuck
+Solution: Restart the Print Spooler service.
+
+Article 98: Overheating Laptop
+Solution: Clean fans and apply new thermal paste if necessary.
+
+Article 99: Error While Saving Document
+Solution: Save to a different location or format.
+
+Article 100: Software License Missing
+Solution: Contact vendor or retrieve from account portal.
+
+Article 101: Frequent Pop-Up Notifications
+Solution: Disable notification permissions from browser settings.
